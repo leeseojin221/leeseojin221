@@ -3,7 +3,7 @@
 
 # Skills
 ![Tech Blog Badge](https://img.shields.io/badge/HTML-F7DF1E?style=flat&logo=HTML&logoColor=black)
-![Tech Blog Badge](https://img.shields.io/badge/CSS?style=flat&logo=CSS&logoColor=black)
+![Tech Blog Badge](https://img.shields.io/badge/Css-F7DF1E?style=flat&logo=Css&logoColor=black)
 ![Tech Blog Badge](https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=black)
 ![Tech Blog Badge](https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=Typescript&logoColor=white)
 ![Tech Blog Badge](https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black)
