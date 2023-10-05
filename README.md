@@ -1,4 +1,4 @@
-# 이서진
+# Lee seojin
 
 
 # Skills
